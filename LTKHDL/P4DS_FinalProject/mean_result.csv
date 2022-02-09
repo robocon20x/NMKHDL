@@ -1,0 +1,10 @@
+column_name,mean
+date, ngày diễn ra trận đấu
+home_team, tên của đội chủ nhà
+away_team, tên của đội khách
+home_score, số bàn thắng đội chủ nhà ghi được bao gồm thời gian thi đấu chính thức và hiệp phụ - không tính loạt luân lưu
+away_score, số bàn thắng đội khách ghi được bao gồm thời gian thi đấu chính thức và hiệp phụ - không tính loạt luân lưu
+tournament, tên của giải đấu
+city, tên của thành phố trận đấu diễn ra
+country, tên của quốc gia mà trận đấu diễn ra
+neutral, cột TRUE/FALSE nếu được tổ chức ở một sân trung lập thì trả về giá trị TRUE

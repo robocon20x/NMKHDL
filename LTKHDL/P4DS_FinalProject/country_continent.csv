@@ -1,0 +1,212 @@
+﻿Index,Code,Country,Continent
+0,AFG,Afghanistan,Asia
+1,ALB,Albania,Europe
+2,ALG,Algeria,Africa
+3,ASA,American Samoa,Oceania
+4,AND,Andorra,Europe
+5,ANG,Angola,Africa
+6,AIA,Anguilla,"North America, Central America and the Caribbean"
+7,ATG,Antigua and Barbuda,"North America, Central America and the Caribbean"
+8,ARG,Argentina,South America
+9,ARM,Armenia,Europe
+10,ARU,Aruba,"North America, Central America and the Caribbean"
+11,AUS,Australia,Asia
+12,AUT,Austria,Europe
+13,AZE,Azerbaijan,Europe
+14,BAH,Bahamas,"North America, Central America and the Caribbean"
+15,BHR,Bahrain,Asia
+16,BAN,Bangladesh,Asia
+17,BRB,Barbados,"North America, Central America and the Caribbean"
+18,BLR,Belarus,Europe
+19,BEL,Belgium,Europe
+20,BLZ,Belize,"North America, Central America and the Caribbean"
+21,BEN,Benin,Africa
+22,BER,Bermuda,"North America, Central America and the Caribbean"
+23,BHU,Bhutan,Asia
+24,BOL,Bolivia,South America
+25,BIH,Bosnia and Herzegovina,Europe
+26,BOT,Botswana,Africa
+27,BRA,Brazil,South America
+28,VGB,British Virgin Islands,"North America, Central America and the Caribbean"
+29,BRU,Brunei,Asia
+30,BUL,Bulgaria,Europe
+31,BFA,Burkina Faso,Africa
+32,BDI,Burundi,Africa
+33,CAM,Cambodia,Asia
+34,CMR,Cameroon,Africa
+35,CAN,Canada,"North America, Central America and the Caribbean"
+36,CPV,Cape Verde,Africa
+37,CAY,Cayman Islands,"North America, Central America and the Caribbean"
+38,CTA,Central African Republic,Africa
+39,CHA,Chad,Africa
+40,CHI,Chile,South America
+41,CHN,China PR,Asia
+42,TPE,Taiwan,Asia
+43,COL,Colombia,South America
+44,COM,Comoros,Africa
+45,CGO,Congo,Africa
+46,COK,Cook Islands,Oceania
+47,CRC,Costa Rica,"North America, Central America and the Caribbean"
+48,CRO,Croatia,Europe
+49,CUB,Cuba,"North America, Central America and the Caribbean"
+50,CUW,Curaçao,"North America, Central America and the Caribbean"
+51,CYP,Cyprus,Europe
+52,CZE,Czech Republic,Europe
+53,DEN,Denmark,Europe
+54,DJI,Djibouti,Africa
+55,DMA,Dominica,"North America, Central America and the Caribbean"
+56,DOM,Dominican Republic,"North America, Central America and the Caribbean"
+57,COD,DR Congo,Africa
+58,ECU,Ecuador,South America
+59,EGY,Egypt,Africa
+60,SLV,El Salvador,"North America, Central America and the Caribbean"
+61,ENG,England,Europe
+62,EQG,Equatorial Guinea,Africa
+63,ERI,Eritrea,Africa
+64,EST,Estonia,Europe
+65,SWZ,Eswatini,Africa
+66,ETH,Ethiopia,Africa
+67,FRO,Faroe Islands,Europe
+68,FIJ,Fiji,Oceania
+69,FIN,Finland,Europe
+70,FRA,France,Europe
+71,GAB,Gabon,Africa
+72,GAM,Gambia,Africa
+73,GEO,Georgia,Europe
+74,GER,Germany,Europe
+75,GHA,Ghana,Africa
+76,GIB,Gibraltar,Europe
+77,GRE,Greece,Europe
+78,GRN,Grenada,"North America, Central America and the Caribbean"
+79,GUM,Guam,Asia
+80,GUA,Guatemala,"North America, Central America and the Caribbean"
+81,GUI,Guinea,Africa
+82,GNB,Guinea-Bissau,Africa
+83,GUY,Guyana,"North America, Central America and the Caribbean"
+84,HAI,Haiti,"North America, Central America and the Caribbean"
+85,HON,Honduras,"North America, Central America and the Caribbean"
+86,HKG,Hong Kong,Asia
+87,HUN,Hungary,Europe
+88,ISL,Iceland,Europe
+89,IND,India,Asia
+90,IDN,Indonesia,Asia
+91,IRN,Iran,Asia
+92,IRQ,Iraq,Asia
+93,ISR,Israel,Europe
+94,ITA,Italy,Europe
+95,CIV,Ivory Coast,Africa
+96,JAM,Jamaica,"North America, Central America and the Caribbean"
+97,JPN,Japan,Asia
+98,JOR,Jordan,Asia
+99,KAZ,Kazakhstan,Europe
+100,KEN,Kenya,Africa
+101,KVX,Kosovo,Europe
+102,KUW,Kuwait,Asia
+103,KGZ,Kyrgyzstan,Asia
+104,LAO,Laos,Asia
+105,LVA,Latvia,Europe
+106,LBN,Lebanon,Asia
+107,LES,Lesotho,Africa
+108,LBR,Liberia,Africa
+109,LBY,Libya,Africa
+110,LIE,Liechtenstein,Europe
+111,LTU,Lithuania,Europe
+112,LUX,Luxembourg,Europe
+113,MAC,Macau,Asia
+114,MAD,Madagascar,Africa
+115,MWI,Malawi,Africa
+116,MAS,Malaysia,Asia
+117,MDV,Maldives,Asia
+118,MLI,Mali,Africa
+119,MLT,Malta,Europe
+120,MTN,Mauritania,Africa
+121,MRI,Mauritius,Africa
+122,MEX,Mexico,"North America, Central America and the Caribbean"
+123,MDA,Moldova,Europe
+124,MNG,Mongolia,Asia
+125,MNE,Montenegro,Europe
+126,MSR,Montserrat,"North America, Central America and the Caribbean"
+127,MAR,Morocco,Africa
+128,MOZ,Mozambique,Africa
+129,MYA,Myanmar,Asia
+130,NAM,Namibia,Africa
+131,NEP,Nepal,Asia
+132,NED,Netherlands,Europe
+133,NCL,New Caledonia,Oceania
+134,NZL,New Zealand,Oceania
+135,NCA,Nicaragua,"North America, Central America and the Caribbean"
+136,NIG,Niger,Africa
+137,NGA,Nigeria,Africa
+138,PRK,North Korea,Asia
+139,MKD,North Macedonia,Europe
+140,NIR,Northern Ireland,Europe
+141,NOR,Norway,Europe
+142,OMA,Oman,Asia
+143,PAK,Pakistan,Asia
+144,PLE,Palestine,Asia
+145,PAN,Panama,"North America, Central America and the Caribbean"
+146,PNG,Papua New Guinea,Oceania
+147,PAR,Paraguay,South America
+148,PER,Peru,South America
+149,PHI,Philippines,Asia
+150,POL,Poland,Europe
+151,POR,Portugal,Europe
+152,PUR,Puerto Rico,"North America, Central America and the Caribbean"
+153,QAT,Qatar,Asia
+154,IRL,Republic of Ireland,Europe
+155,ROU,Romania,Europe
+156,RUS,Russia,Europe
+157,RWA,Rwanda,Africa
+158,SKN,Saint Kitts and Nevis,"North America, Central America and the Caribbean"
+159,LCA,Saint Lucia,"North America, Central America and the Caribbean"
+160,VIN,Saint Vincent and the Grenadines,"North America, Central America and the Caribbean"
+161,SAM,Samoa,Oceania
+162,SMR,San Marino,Europe
+163,STP,São Tomé and Príncipe,Africa
+164,KSA,Saudi Arabia,Asia
+165,SCO,Scotland,Europe
+166,SEN,Senegal,Africa
+167,SRB,Serbia,Europe
+168,SEY,Seychelles,Africa
+169,SLE,Sierra Leone,Africa
+170,SIN,Singapore,Asia
+171,SVK,Slovakia,Europe
+172,SVN,Slovenia,Europe
+173,SOL,Solomon Islands,Oceania
+174,SOM,Somalia,Africa
+175,RSA,South Africa,Africa
+176,KOR,South Korea,Asia
+177,SSD,South Sudan,Africa
+178,ESP,Spain,Europe
+179,SRI,Sri Lanka,Asia
+180,SDN,Sudan,Africa
+181,SUR,Suriname,"North America, Central America and the Caribbean"
+182,SWE,Sweden,Europe
+183,SUI,Switzerland,Europe
+184,SYR,Syria,Asia
+185,TAH,Tahiti (French Polynesia),Oceania
+186,TJK,Tajikistan,Asia
+187,TAN,Tanzania,Africa
+188,THA,Thailand,Asia
+189,TLS,Timor-Leste (East Timor),Asia
+190,TOG,Togo,Africa
+191,TGA,Tonga,Oceania
+192,TRI,Trinidad and Tobago,"North America, Central America and the Caribbean"
+193,TUN,Tunisia,Africa
+194,TUR,Turkey,Europe
+195,TKM,Turkmenistan,Asia
+196,TCA,Turks and Caicos Islands,"North America, Central America and the Caribbean"
+197,UGA,Uganda,Africa
+198,UKR,Ukraine,Europe
+199,UAE,United Arab Emirates,Asia
+200,USA,United States,"North America, Central America and the Caribbean"
+201,URU,Uruguay,South America
+202,VIR,United States Virgin Islands,"North America, Central America and the Caribbean"
+203,UZB,Uzbekistan,Asia
+204,VAN,Vanuatu,Oceania
+205,VEN,Venezuela,South America
+206,VIE,Vietnam,Asia
+207,WAL,Wales,Europe
+208,YEM,Yemen,Asia
+209,ZAM,Zambia,Africa
+210,ZIM,Zimbabwe,Africa

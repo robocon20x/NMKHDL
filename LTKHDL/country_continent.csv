@@ -1,0 +1,218 @@
+﻿Country,Code,Continent
+ Algeria,ALG,Africa
+ Angola,ANG,Africa
+ Benin,BEN,Africa
+ Botswana,BOT,Africa
+ Burkina Faso,BFA,Africa
+ Burundi,BDI,Africa
+ Cameroon,CMR,Africa
+ Cape Verde,CPV,Africa
+ Central African Republic,CTA,Africa
+ Chad,CHA,Africa
+ Comoros,COM,Africa
+" Congo, Democratic Republic of",COD,Africa
+" Congo, Republic of",CGO,Africa
+ Djibouti,DJI,Africa
+ Egypt,EGY,Africa
+ Equatorial Guinea,EQG,Africa
+ Eritrea,ERI,Africa
+ Eswatini,SWZ,Africa
+ Ethiopia,ETH,Africa
+ Gabon,GAB,Africa
+ Gambia,GAM,Africa
+ Ghana,GHA,Africa
+ Guinea,GUI,Africa
+ Guinea-Bissau,GNB,Africa
+ Côte d'Ivoire (Ivory Coast),CIV,Africa
+ Kenya,KEN,Africa
+ Lesotho,LES,Africa
+ Liberia,LBR,Africa
+ Libya,LBY,Africa
+ Madagascar,MAD,Africa
+ Malawi,MWI,Africa
+ Mali,MLI,Africa
+ Mauritania,MTN,Africa
+ Mauritius,MRI,Africa
+ Morocco,MAR,Africa
+ Mozambique,MOZ,Africa
+ Namibia,NAM,Africa
+ Niger,NIG,Africa
+ Nigeria,NGA,Africa
+ Rwanda,RWA,Africa
+ São Tomé and Príncipe,STP,Africa
+ Senegal,SEN,Africa
+ Seychelles,SEY,Africa
+ Sierra Leone,SLE,Africa
+ Somalia,SOM,Africa
+ South Africa,RSA,Africa
+ South Sudan,SSD,Africa
+ Sudan,SDN,Africa
+ Tanzania,TAN,Africa
+ Togo,TOG,Africa
+ Tunisia,TUN,Africa
+ Uganda,UGA,Africa
+ Zambia,ZAM,Africa
+ Zimbabwe,ZIM,Africa
+ Afghanistan,AFG,Asia
+ Australia,AUS,Asia
+ Bahrain,BHR,Asia
+ Bangladesh,BAN,Asia
+ Bhutan,BHU,Asia
+ Brunei,BRU,Asia
+ Cambodia,CAM,Asia
+" China, People's Republic of",CHN,Asia
+ Chinese Taipei (Taiwan),TPE,Asia
+ Guam,GUM,Asia
+ Hong Kong,HKG,Asia
+ India,IND,Asia
+ Indonesia,IDN,Asia
+ Iran,IRN,Asia
+ Iraq,IRQ,Asia
+ Japan,JPN,Asia
+ Jordan,JOR,Asia
+" Korea, Democratic People's Republic of (North Korea)",PRK,Asia
+" Korea, Republic of (South Korea)",KOR,Asia
+ Kuwait,KUW,Asia
+ Kyrgz Republic (Kyrgyzstan),KGZ,Asia
+ Laos,LAO,Asia
+ Lebanon,LBN,Asia
+ Macau,MAC,Asia
+ Malaysia,MAS,Asia
+ Maldives,MDV,Asia
+ Mongolia,MNG,Asia
+ Myanmar,MYA,Asia
+ Nepal,NEP,Asia
+ Oman,OMA,Asia
+ Pakistan,PAK,Asia
+ Palestine,PLE,Asia
+,,Asia
+ Philippines,PHI,Asia
+ Qatar,QAT,Asia
+ Saudi Arabia,KSA,Asia
+ Singapore,SIN,Asia
+ Sri Lanka,SRI,Asia
+ Syria,SYR,Asia
+ Tajikistan,TJK,Asia
+ Thailand,THA,Asia
+ Timor-Leste (East Timor),TLS,Asia
+ Turkmenistan,TKM,Asia
+ United Arab Emirates,UAE,Asia
+ Uzbekistan,UZB,Asia
+ Vietnam,VIE,Asia
+ Yemen,YEM,Asia
+Country,Code,Europe
+ Albania,ALB,Europe
+ Andorra,AND,Europe
+ Armenia,ARM,Europe
+ Austria,AUT,Europe
+ Azerbaijan,AZE,Europe
+ Belarus,BLR,Europe
+ Belgium,BEL,Europe
+ Bosnia and Herzegovina,BIH,Europe
+ Bulgaria,BUL,Europe
+ Croatia,CRO,Europe
+ Cyprus,CYP,Europe
+ Czech Republic (Czechia),CZE,Europe
+ Denmark,DEN,Europe
+ England,ENG,Europe
+ Estonia,EST,Europe
+ Faroe Islands,FRO,Europe
+ Finland,FIN,Europe
+ France,FRA,Europe
+ Georgia,GEO,Europe
+ Germany,GER,Europe
+ Gibraltar,GIB,Europe
+ Greece,GRE,Europe
+ Hungary,HUN,Europe
+ Iceland,ISL,Europe
+ Israel,ISR,Europe
+ Italy,ITA,Europe
+ Kazakhstan,KAZ,Europe
+ Kosovo,KVX,Europe
+ Latvia,LVA,Europe
+ Liechtenstein,LIE,Europe
+ Lithuania,LTU,Europe
+ Luxembourg,LUX,Europe
+ Malta,MLT,Europe
+ Moldova,MDA,Europe
+ Montenegro,MNE,Europe
+ Netherlands,NED,Europe
+ North Macedonia,MKD,Europe
+ Northern Ireland,NIR,Europe
+ Norway,NOR,Europe
+ Poland,POL,Europe
+ Portugal,POR,Europe
+ Republic of Ireland,IRL,Europe
+ Romania,ROU,Europe
+ Russia,RUS,Europe
+ San Marino,SMR,Europe
+ Scotland,SCO,Europe
+ Serbia,SRB,Europe
+ Slovakia,SVK,Europe
+ Slovenia,SVN,Europe
+ Spain,ESP,Europe
+ Sweden,SWE,Europe
+ Switzerland,SUI,Europe
+ Turkey,TUR,Europe
+ Ukraine,UKR,Europe
+ Wales,WAL,Europe
+Country,Code,
+ Anguilla,AIA,"North America, Central America and the Caribbean"
+ Antigua and Barbuda,ATG,"North America, Central America and the Caribbean"
+ Aruba,ARU,"North America, Central America and the Caribbean"
+ Bahamas,BAH,"North America, Central America and the Caribbean"
+ Barbados,BRB,"North America, Central America and the Caribbean"
+ Belize,BLZ,"North America, Central America and the Caribbean"
+ Bermuda,BER,"North America, Central America and the Caribbean"
+ British Virgin Islands,VGB,"North America, Central America and the Caribbean"
+ Canada,CAN,"North America, Central America and the Caribbean"
+ Cayman Islands,CAY,"North America, Central America and the Caribbean"
+ Costa Rica,CRC,"North America, Central America and the Caribbean"
+ Cuba,CUB,"North America, Central America and the Caribbean"
+ Curaçao,CUW,"North America, Central America and the Caribbean"
+ Dominica,DMA,"North America, Central America and the Caribbean"
+ Dominican Republic,DOM,"North America, Central America and the Caribbean"
+ El Salvador,SLV,"North America, Central America and the Caribbean"
+ Grenada,GRN,"North America, Central America and the Caribbean"
+ Guatemala,GUA,"North America, Central America and the Caribbean"
+ Guyana,GUY,"North America, Central America and the Caribbean"
+ Haiti,HAI,"North America, Central America and the Caribbean"
+ Honduras,HON,"North America, Central America and the Caribbean"
+ Jamaica,JAM,"North America, Central America and the Caribbean"
+ Mexico,MEX,"North America, Central America and the Caribbean"
+ Montserrat,MSR,"North America, Central America and the Caribbean"
+ Nicaragua,NCA,"North America, Central America and the Caribbean"
+ Panama,PAN,"North America, Central America and the Caribbean"
+ Puerto Rico,PUR,"North America, Central America and the Caribbean"
+ Saint Kitts and Nevis,SKN,"North America, Central America and the Caribbean"
+,,"North America, Central America and the Caribbean"
+ Saint Lucia,LCA,"North America, Central America and the Caribbean"
+ Saint Vincent and the Grenadines,VIN,"North America, Central America and the Caribbean"
+ Suriname,SUR,"North America, Central America and the Caribbean"
+ Trinidad and Tobago,TRI,"North America, Central America and the Caribbean"
+ Turks and Caicos Islands,TCA,"North America, Central America and the Caribbean"
+ United States of America,USA,"North America, Central America and the Caribbean"
+ United States Virgin Islands,VIR,"North America, Central America and the Caribbean"
+Country,Code,
+ American Samoa,ASA,Oceania
+ Cook Islands,COK,Oceania
+ Fiji,FIJ,Oceania
+ New Caledonia,NCL,Oceania
+ New Zealand,NZL,Oceania
+ Papua New Guinea,PNG,Oceania
+ Samoa,SAM,Oceania
+ Solomon Islands,SOL,Oceania
+ Tahiti (French Polynesia),TAH,Oceania
+ Tonga,TGA,Oceania
+ Vanuatu,VAN,Oceania
+Country,Code,
+ Argentina,ARG,South America
+ Bolivia,BOL,South America
+ Brazil,BRA,South America
+ Chile,CHI,South America
+ Colombia,COL,South America
+ Ecuador,ECU,South America
+ Paraguay,PAR,South America
+ Peru,PER,South America
+ Uruguay,URU,South America
+ Venezuela,VEN,South America
